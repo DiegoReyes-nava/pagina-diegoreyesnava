@@ -1,0 +1,81 @@
+h1{
+	text-align: center;
+    color:black;
+    font-size: 3em;
+    text-transform: uppercase;
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+img{
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.text1{
+    text-align: center;
+	color:blue;
+	font-weight:800;
+	font-size:28px;
+	color: #2f4f4f;
+	font-family:Arial Narrow;
+}
+
+.text2{
+	text-align: center;
+	font-size:20px;
+	font-family: Arial Narrow;
+}
+
+.text3{
+	text-align: center;
+	color:blue;
+	font-weight:800;
+	font-size:28px;
+	color: #2f4f4f;
+	font-family:Arial Narrow;
+}
+
+.text4{
+	text-align: center;
+	color:blue;
+	font-weight:800;
+	font-size:25px;
+	color: #696969;
+	font-family:Brush Script MT;
+}
+
+p{
+	text-align: center;
+	font-size:20px;
+	font-family: Arial Narrow;
+}
+
+.text5{
+	text-align: center;
+	font-size:12px;
+	font-family: Courier New;
+}
+
+.format1{
+	text-align: center;
+	font-size:20px;
+	font-family: Arial Narrow;
+}
+
+.viento{
+	text-align: center;
+	font-family: Arial Narrow;
+	font-size:40px;
+}
+
+.tex{
+	text-align: center;
+	font-family: Arial;
+}
+
+.precio{
+	text-align: center;
+	color:32cd32;
+	font-size: 2em;
+}
